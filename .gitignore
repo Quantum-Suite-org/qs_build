@@ -1,0 +1,26 @@
+#
+# Official qs_build/ gitignore file.
+#
+
+# Build objects
+*.obj
+*.o
+build/
+release/
+out/
+build_obj/
+
+# Env
+*.env
+
+# Previous objects
+*.exe
+*.dll
+*.lib
+
+# Temporary
+tmp/
+tmp_verify/
+
+# Examples, ignored for now
+examples/

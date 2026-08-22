@@ -24,3 +24,4 @@ tmp_verify/
 
 # Examples, ignored for now
 examples/
+*HANDOFF.MD

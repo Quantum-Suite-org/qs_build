@@ -284,7 +284,7 @@ Place compiled plugins in `<exe_dir>/plugins/` or set `QS_PLUGIN_PATH`.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Apache License 2.0. — see [LICENSE](LICENSE).
 
 ---
 
